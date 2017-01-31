@@ -5,7 +5,7 @@ The partition into training and validation is done with the ratio of 60:40 and s
 
 We run the algorithm for 20 times and for each run we partition the data into training and validation. The zip files named as "Datasets#.zip" are the different sets of training and validation datasets used in different run.
 
-The file Codes.zip, contains R codes to process data and to derive boolean signature from a selected subset. 
+The branch DatasetLogicomeCodes, contains the file Codes.zip, contains R codes to process data and to derive boolean signature from a selected subset. 
 We have used R-Studio to write the code, please use selection run method to run the lines of the code. 
 https://support.rstudio.com/hc/en-us/articles/200484448-Editing-and-Executing-Code
 
